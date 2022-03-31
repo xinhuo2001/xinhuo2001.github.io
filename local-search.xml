@@ -4,11 +4,30 @@
   
   
   <entry>
+    <title>写文章</title>
+    <link href="/2022/03/31/%E5%86%99%E6%96%87%E7%AB%A0/"/>
+    <url>/2022/03/31/%E5%86%99%E6%96%87%E7%AB%A0/</url>
+    
+    <content type="html"><![CDATA[<p>写一篇新文章也太麻烦了吧</p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>测试</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>测试文章</title>
     <link href="/2022/03/31/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/"/>
     <url>/2022/03/31/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</url>
     
-    <content type="html"><![CDATA[<p>666</p>]]></content>
+    <content type="html"><![CDATA[<p>666</p><p><a href="https://xinhuo2001.github.io/">https://xinhuo2001.github.io</a></p>]]></content>
     
     
     
